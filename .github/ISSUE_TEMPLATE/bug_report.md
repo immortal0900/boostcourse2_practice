@@ -11,19 +11,19 @@ assignees: ''
 -
 
 ## To Reproduce
-- 
+-
 
 ## Expected behavior
-- 
+-
 
 ## Screenshots
 -
 
 ## Additional context
-- 
+-
 
 ## Possible Solution
-- 
+-
 
 ## Your Environment
 -
